@@ -26,7 +26,7 @@ PS: nodemon is installed to if you want to run it
 npm start
 ```
 ### chrome repair
-Add redux devtool to chrom so react can run 
+Add "redux devtools" to chrom so react can run 
 
 react start opens the page automatically but if you want to run it use :
 `http://localhost:3000/`
