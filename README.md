@@ -25,8 +25,13 @@ PS: nodemon is installed to if you want to run it
 ```
 npm start
 ```
+### chrome repair
+Add redux devtool to chrom so react can run 
 
+react start opens the page automatically but if you want to run it use :
+`http://localhost:3000/`
 
 ## Get Ticket 
 
 is a secure route when you are not logged in or your token is expired it will not open and will reroute you to login page,if you are logged in and your token is valid it will open and show you your passport number
+
